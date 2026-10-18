@@ -33,10 +33,10 @@ I build practical software and reliable systems. I enjoy working across infrastr
 
 | Area | Topics |
 | --- | --- |
-| **Systems** | Linux, Windows Server, troubleshooting, hardening |
-| **Automation** | Python, Bash, scripting, repeatable operations |
-| **Development** | TypeScript, JavaScript, React, Node.js, HTML, CSS |
-| **Data & AI** | Data analysis, machine learning, emotion analysis |
+| **Systems** | Linux, Windows Server, hardening,odoo,open source solutions , distributed systems(RMI,CORBA,KAFKA) |
+| **Automation** | Python, scripting, repeatable operations |
+| **Development** | JavaScript, React, Node.js, HTML, CSS,JAVA |
+| **Data & AI** | Data analysis, machine learning |
 | **DevOps** | Git, Docker, CI/CD, deployment workflows |
 
 ## 📊 GitHub statistics
