@@ -4,7 +4,7 @@
 
 ### Turning data to tada ✨
 
-**Systems Management Engineer · Automation · DevOps · Data & AI**
+**Systems Management Engineer  · DevOps · Data **
 
 <p>
   <a href="https://github.com/hidbella2005"><img src="https://komarev.com/ghpvc/?username=hidbella2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></a>
